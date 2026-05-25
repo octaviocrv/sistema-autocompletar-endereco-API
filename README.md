@@ -40,11 +40,3 @@ A aplicação foi construída visando alta performance e execução no lado do c
 - **ViaCEP API** — Webservice gratuito e de alto desempenho para consulta de Códigos de Endereçamento Postal (CEP) do Brasil.
 
 ---
-
-## Como rodar localmente
-
-Por ser uma aplicação nativa para navegadores, a execução local é imediata e não exige a instalação de gerenciadores de pacotes ou servidores complexos.
-
-1. Clone este repositório para sua máquina local:
-```bash
-git clone [https://github.com/octaviocrv/nome-do-repositorio.git](https://github.com/octaviocrv/nome-do-repositorio.git)
